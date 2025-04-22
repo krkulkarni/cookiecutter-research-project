@@ -66,4 +66,3 @@ The Cookiecutter *template itself* is licensed under the MIT License. The licens
 ## Contributing
 
 Suggestions and improvements to this template are welcome! Please feel free to open an Issue or Pull Request.
-```
